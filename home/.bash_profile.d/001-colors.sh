@@ -59,3 +59,7 @@ BRIGHT_WHITE="\[$ESC[${BRIGHT};${FG_WHITE}m\]"
 # REV TEXT as an example
 REV_CYAN="\[$ESC[${DULL};${BG_WHITE};${BG_CYAN}m\]"
 REV_RED="\[$ESC[${DULL};${FG_YELLOW}; ${BG_RED}m\]"
+
+# LS Colors
+export CLICOLOR=1
+export LSCOLORS=DxGxcxdxCxegedabagacad
