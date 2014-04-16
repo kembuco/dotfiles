@@ -14,3 +14,6 @@
     added = green
     changed = yellow
     untracked = cyan
+[user]
+	name = Kevin Burke
+	email = kembuco@gmail.com
